@@ -3,5 +3,3 @@ env/
 "venv/" 
 "*.pyc" 
 "*.ipynb_checkpoints/" 
-"Exell/train_fifi.csv" 
-"Exell/train.csv" 
