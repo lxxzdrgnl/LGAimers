@@ -1,5 +1,5 @@
 env/ 
 "env/" 
-"venv/" 
-"*.pyc" 
-"*.ipynb_checkpoints/" 
+venv/
+*.pyc 
+*.ipynb_checkpoints/
