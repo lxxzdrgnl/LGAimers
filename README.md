@@ -1,6 +1,6 @@
 # Pregnancy Success Prediction Project
 
-This repository contains the implementation and documentation of an AI-driven project developed during participation in the LG Aimers Hackathon, aiming to predict pregnancy success probabilities for patients undergoing infertility treatments.
+This repository has the code and documents for a project made during the LG Aimers Hackathon. The goal of the project was to predict how likely patients with infertility problems are to get pregnant.
 
 ## Objective
 
